@@ -3,7 +3,7 @@
 Summary:	Office game for laptop owners
 Name:		office-runner
 Version:	1.0
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Graphical desktop/GNOME
 Url:		http://www.gnome.org/
