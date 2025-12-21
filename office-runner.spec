@@ -9,6 +9,11 @@ Group:		Graphical desktop/GNOME
 Url:		https://www.gnome.org/
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/%{name}/%{url_ver}/%{name}-%{version}.tar.xz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	intltool
 Buildrequires:	itstool
 BuildRequires:	xsltproc
